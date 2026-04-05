@@ -1,0 +1,7 @@
+817_pics
+	images
+	labels
+	.DS_Store
+	Readme
+
+Note : For each image in images , there is text file for that image the image name and the txt file name for that image is same, and in the text file there are written numbers.
