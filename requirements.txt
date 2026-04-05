@@ -1,0 +1,5 @@
+ultralytics
+mss
+opencv-python
+pygame
+numpy
